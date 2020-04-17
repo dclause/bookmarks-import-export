@@ -2,7 +2,7 @@
   "name": "bookmarks-import-export",
   "version": "1.0.0",
   "description": "Parses or exports bookmarks files from various browsers sources and bookmarking services.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
