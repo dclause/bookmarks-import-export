@@ -3,8 +3,9 @@
 This library can parse (or export) bookmarks files from various formats listed below:
 
 - Netscape Bookmarks (Google Chrome, ...)
-- Firefox json files
+- Firefox json file
 - GetPocket library
+- Instapaper HTML file
 
 ## Installation
 
