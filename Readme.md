@@ -6,6 +6,7 @@ This library can parse (or export) bookmarks files from various formats listed b
 - Firefox json file
 - GetPocket library
 - Instapaper HTML file
+- Pinterest RSS feed file
 
 ## Installation
 
